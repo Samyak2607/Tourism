@@ -264,6 +264,20 @@
                             <ul class="links double_links">
                                 <li><a href="#">Madhya Pradesh</a></li>
 
+
+                                
+                                <li><a href="#">Rajasthan</a></li>
+                                <li><a href="#">Himachal Pradesh</a></li>
+                                <li><a href="#">Kerala</a></li>
+                                
+
+                                <li><a href="#">Goa</a></li>
+                                <li><a href="#">Kerala</a></li>
+                                
+                                
+                                <li><a href="#">Ladakh</a></li>
+
+
                                 <li><a href="#">Gujarat</a></li>
                                 <li><a href="#">Rajasthan</a></li>
                                 <li><a href="#">Himachal Pradesh</a></li>
@@ -279,6 +293,7 @@
                                 <li><a href="#">Ladakh</a></li>
 
                                 <li><a href="#">Assam</a></li>
+
                             </ul>
                         </div>
                     </div>
