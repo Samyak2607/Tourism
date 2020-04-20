@@ -5,14 +5,17 @@
         <group>
             <file>file:/D:/NetBeansProjects/Tourism/web/elements.jsp</file>
             <file>file:/D:/NetBeansProjects/Tourism/web/single-blog.jsp</file>
-            <file>file:/D:/NetBeansProjects/Tourism/web/signin/signup.jsp</file>
             <file>file:/D:/NetBeansProjects/Tourism/web/signin/register.jsp</file>
-            <file>file:/D:/NetBeansProjects/Tourism/web/travel_destination.jsp</file>
-            <file>file:/D:/NetBeansProjects/Tourism/web/destination_details.jsp</file>
+            <file>file:/D:/NetBeansProjects/Tourism/web/index.jsp</file>
             <file>file:/D:/NetBeansProjects/Tourism/web/blog.jsp</file>
-            <file>file:/D:/NetBeansProjects/Tourism/web/signin/signin.jsp</file>
             <file>file:/D:/NetBeansProjects/Tourism/web/contact.jsp</file>
             <file>file:/D:/NetBeansProjects/Tourism/web/main.jsp</file>
+            <file>file:/D:/NetBeansProjects/Tourism/web/signin/login.jsp</file>
+            <file>file:/D:/NetBeansProjects/Tourism/web/signin/signin.html</file>
+            <file>file:/D:/NetBeansProjects/Tourism/web/signin/signup.jsp</file>
+            <file>file:/D:/NetBeansProjects/Tourism/web/travel_destination.jsp</file>
+            <file>file:/D:/NetBeansProjects/Tourism/web/destination_details.jsp</file>
+            <file>file:/D:/NetBeansProjects/Tourism/web/signin/signin.jsp</file>
             <file>file:/D:/NetBeansProjects/Tourism/web/index.html</file>
             <file>file:/D:/NetBeansProjects/Tourism/web/about.html</file>
         </group>

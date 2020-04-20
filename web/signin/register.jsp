@@ -18,14 +18,19 @@
 //            if(category.equals("select category"))
 //            {
 //            out.println("please select valid choice");    
-//            }
+//           }
+    try{
         Class.forName("com.mysql.jdbc.Driver");
         Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3307/tourism_user?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC", "root", "secret");
-        out.println("Done");
+//        out.println("Done");
         Statement st=con.createStatement();
         
         int i=st.executeUpdate("insert into user(name,email, password)values('"+name+"','"+email+"','"+password+"')");
-        response.sendRedirect("/index.html");
+        response.sendRedirect("travel_destination.jsp");
+    }
+    catch(Exception e){
+        response.sendRedirect("signin/signin.html");
+    }
 //        out.println("Data is successfully inserted!");
 
 //     try{
